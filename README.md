@@ -1,8 +1,8 @@
-<h1 align="center">Hey, I'm Yaksh Rohilla 👋</h1>
+<h1 align="center">Yaksh Rohilla</h1>
 
-<h3 align="center">
-  I build things that mix code, creativity, and real-world problem solving.
-</h3>
+<p align="center">
+  <b>Turning ideas into interfaces, systems, and intelligent products.</b>
+</p>
 
 <p align="center">
   <a href="https://github.com/Yaksh2912">
@@ -12,32 +12,50 @@
 
 ---
 
-## 🧠 About Me
+<div align="center">
 
-I am a Computer Science student who enjoys building full-stack web apps, AI/ML projects, dashboards, and practical tools that solve real problems.
+### The Build Philosophy
 
-I like turning rough ideas into working products, whether it is a MERN stack platform, a machine learning model, an IoT project, or a clean frontend interface. I am especially interested in AI, web development, data-driven applications, and products that can create real impact.
+`Think clearly` &nbsp; → &nbsp; `Design simply` &nbsp; → &nbsp; `Code cleanly` &nbsp; → &nbsp; `Ship better`
 
-I believe good projects are not just about writing code. They are about understanding the problem, designing a smooth experience, and making the solution useful.
+</div>
 
 ---
 
-## 🚀 What I Do
+## About Me
+
+I am a Computer Science student who enjoys building projects that combine logic, creativity, and real-world usefulness.
+
+My work usually lives at the intersection of full-stack development, AI/ML, dashboards, automation, and clean user interfaces. I like taking an idea from a rough concept to a working product: researching the problem, designing the flow, writing the code, debugging the edge cases, and polishing the final experience.
+
+I do not just want to build projects that run. I want to build projects that feel useful, understandable, and well thought out.
+
+---
+
+## Developer Snapshot
 
 ```js
 const yaksh = {
+  identity: "Computer Science student and builder",
   code: ["C++", "JavaScript", "Python", "Java"],
   frontend: ["React", "HTML", "CSS", "Tailwind", "Streamlit"],
   backend: ["Node.js", "Express.js", "FastAPI"],
   database: ["MongoDB", "SQL"],
-  interests: ["AI/ML", "Full Stack Development", "OSINT", "IoT", "Data Science"],
-  currentFocus: "Building impactful projects with clean UI and smart logic",
+  interests: [
+    "Full Stack Development",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Data Science",
+    "IoT",
+    "OSINT"
+  ],
+  mindset: "Build practical systems with clean design and smart logic"
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,vscode" />
@@ -45,27 +63,65 @@ const yaksh = {
 
 ---
 
-## 🧩 Projects I Like Building
+## What I Like Building
 
-- AI-powered applications
-- MERN stack dashboards
-- Data analysis and visualization tools
-- IoT-based automation systems
-- Student productivity platforms
-- Clean and responsive frontend interfaces
-- Real-world problem-solving prototypes
+<table>
+  <tr>
+    <td><b>Intelligent Systems</b></td>
+    <td>AI/ML projects, prediction models, smart analysis tools, and data-driven applications.</td>
+  </tr>
+  <tr>
+    <td><b>Full Stack Products</b></td>
+    <td>MERN dashboards, student portals, productivity tools, and end-to-end web platforms.</td>
+  </tr>
+  <tr>
+    <td><b>Interactive Interfaces</b></td>
+    <td>Responsive frontend layouts, animated sections, clean dashboards, and polished UI flows.</td>
+  </tr>
+  <tr>
+    <td><b>Real-World Prototypes</b></td>
+    <td>IoT systems, automation ideas, hackathon projects, and practical problem-solving tools.</td>
+  </tr>
+</table>
 
 ---
 
-## 🔥 Featured Mindset
+## Current Learning Path
 
-> Build first. Improve fast. Learn always.
-
-I enjoy experimenting with ideas, debugging tough problems, and improving projects step by step until they feel polished and useful.
+```txt
+Full Stack Development        █████████░░
+Machine Learning              ████████░░░
+FastAPI                       ███████░░░░
+System Design Basics          ██████░░░░░
+Data Science Applications     ████████░░░
+UI/UX Thinking                █████████░░
+```
 
 ---
 
-## 📊 GitHub Stats
+## Project Pattern
+
+```txt
+Problem
+   ↓
+Research
+   ↓
+Design
+   ↓
+Prototype
+   ↓
+Debug
+   ↓
+Improve
+   ↓
+Ship
+   ↓
+Learn
+```
+
+---
+
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yaksh2912&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
@@ -78,42 +134,15 @@ I enjoy experimenting with ideas, debugging tough problems, and improving projec
 
 ---
 
-## 🧠 Current Learning Zone
+## Beyond Code
 
-```txt
-Full Stack Development
-Machine Learning
-FastAPI
-System Design Basics
-Data Science for Real-World Applications
-Better UI/UX Thinking
-```
+I enjoy the complete journey of building: understanding the problem, working with people, designing the experience, writing the logic, presenting the idea, and improving it through feedback.
+
+For me, a good project is not only technically correct. It should also be clear, usable, and meaningful.
 
 ---
 
-## 🌌 My Developer Universe
-
-```txt
-Idea        → Research
-Research    → Design
-Design      → Code
-Code        → Debug
-Debug       → Improve
-Improve     → Ship
-Ship        → Learn
-```
-
----
-
-## 🏆 Beyond Code
-
-I like working on projects that involve creativity, teamwork, and presentation.
-
-From building technical solutions to designing interfaces and explaining ideas clearly, I enjoy the complete journey of making something meaningful.
-
----
-
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="mailto:yaksh2912@gmail.com">
@@ -130,9 +159,9 @@ From building technical solutions to designing interfaces and explaining ideas c
 ---
 
 <p align="center">
-  <b>Thanks for visiting my GitHub profile.</b>
+  <b>Code. Create. Improve. Repeat.</b>
 </p>
 
 <p align="center">
-  <i>Code. Create. Improve. Repeat.</i>
+  <i>Thanks for visiting my GitHub profile.</i>
 </p>
