@@ -171,6 +171,16 @@ Ship        → Learn
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaksh2912&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yaksh2912/Yaksh2912/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yaksh2912/Yaksh2912/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Yaksh2912/Yaksh2912/output/github-snake.svg" />
+  </picture>
+</div>
+
 ---
 
 ## 📬 Let's Connect
