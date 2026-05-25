@@ -301,7 +301,7 @@ This will only work after your GitHub Action runs successfully.
 
   <!-- LinkedIn -->
 
-  <a href="https://www.linkedin.com/in/yaksh-rohilla" target="_blank">
+  <a href="https://www.linkedin.com/in/yaksh-rohilla-1a8941188/" target="_blank">
 
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 
