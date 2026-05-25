@@ -314,24 +314,27 @@ This will only work after your GitHub Action runs successfully.
 <!-- ===================== GITHUB STATS SECTION ===================== -->
 <h3 align="center">GitHub Stats</h3>
 
+<!-- GitHub Profile Stats -->
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Yaksh2912&show_icons=true&theme=tokyonight&hide_border=true" 
-    alt="Yaksh Rohilla GitHub Stats" 
+    src="https://github-readme-stats.vercel.app/api?username=Yaksh2912&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    alt="Yaksh2912 GitHub Stats" 
   />
 </p>
 
+<!-- GitHub Streak Stats -->
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Yaksh2912&theme=tokyonight&hide_border=true" 
-    alt="Yaksh Rohilla GitHub Streak" 
+    src="https://streak-stats.demolab.com?user=Yaksh2912&theme=tokyonight&hide_border=true" 
+    alt="Yaksh2912 GitHub Streak" 
   />
 </p>
 
+<!-- Most Used Languages -->
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaksh2912&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Yaksh Rohilla Most Used Languages" 
+    alt="Yaksh2912 Most Used Languages" 
   />
 </p>
 
