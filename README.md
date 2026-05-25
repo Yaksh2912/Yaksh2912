@@ -312,23 +312,30 @@ This will only work after your GitHub Action runs successfully.
 <hr>
 
 <!-- ===================== GITHUB STATS SECTION ===================== -->
+<h3 align="center">GitHub Stats</h3>
+
 <p align="center">
-  <!-- GitHub profile stats -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yaksh2912&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Yaksh2912" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Yaksh2912&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="Yaksh Rohilla GitHub Stats" 
+  />
 </p>
 
 <p align="center">
-  <!-- GitHub streak stats -->
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yaksh2912&theme=tokyonight&hide_border=true" alt="Yaksh2912" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Yaksh2912&theme=tokyonight&hide_border=true" 
+    alt="Yaksh Rohilla GitHub Streak" 
+  />
 </p>
 
 <p align="center">
-  <!-- Most used languages -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaksh2912&layout=compact&theme=tokyonight&hide_border=true" alt="Yaksh2912" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaksh2912&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Yaksh Rohilla Most Used Languages" 
+  />
 </p>
 
 <hr>
-
 <!-- ===================== CLOSING QUOTE SECTION ===================== -->
 <p align="center">
   <b>Code. Create. Improve. Repeat.</b>
