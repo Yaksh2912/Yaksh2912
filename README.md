@@ -282,25 +282,31 @@ This will only work after your GitHub Action runs successfully.
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
-  <!-- Gmail -->
-  <a href="mailto:yaksh2912@gmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail" height="40" width="40" />
-  </a>
 
-  &nbsp;&nbsp;
+  <!-- Gmail -->
+
+  <a href="mailto:yaksh2912@gmail.com" target="_blank">
+
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+
+  </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/Yaksh2912" target="blank">
-    <img align="center" src="https://img.icons8.com/ios-glyphs/60/github.png" alt="github" height="40" width="40" />
-  </a>
 
-  &nbsp;&nbsp;
+  <a href="https://github.com/Yaksh2912" target="_blank">
+
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+  </a>
 
   <!-- LinkedIn -->
-  <!-- Replace your-linkedin with your actual LinkedIn username/link -->
-  <a href="https://www.linkedin.com/in/your-linkedin" target="blank">
-    <img align="center" src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40" width="40" />
+
+  <a href="https://www.linkedin.com/in/yaksh-rohilla" target="_blank">
+
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
   </a>
+
 </p>
 
 <hr>
